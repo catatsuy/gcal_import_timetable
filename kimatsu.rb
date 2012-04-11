@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+
+# gcal_import_timetable
+# web http://www.catatsuy.org/
+# twitter http://twitter.com/catatsuy
+# facebook http://www.facebook.com/catatsuy
+# mail catatsuy@catatsuy.org
+
+# Copyright 2012, KANEKO Tatsuya
+# Free to use and abuse under the MIT license.
+# http://www.opensource.org/licenses/mit-license.php
+
 require 'rubygems'
 require 'pp'
 require 'gcalapi'

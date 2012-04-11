@@ -72,3 +72,13 @@ Googleカレンダーに登録されているか確認してください
 ・作成したファイルの1行目に@gmail.comまで含めていませんか？
 ・作成したファイルの文字コードがUTF-8以外になっていませんか？
 ・カレントディレクトリがスクリプトのあるディレクトリ下になっていますか？
+
+gcal_import_timetable
+web http://www.catatsuy.org/
+twitter http://twitter.com/catatsuy
+facebook http://www.facebook.com/catatsuy
+mail catatsuy@catatsuy.org
+
+Copyright 2012, KANEKO Tatsuya
+Free to use and abuse under the MIT license.
+http://www.opensource.org/licenses/mit-license.php
